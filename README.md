@@ -1,4 +1,4 @@
-📝 Blog Management System
+<h1>📝 Blog Management System</h1>
 A simple blog web application built using Node.js, Express.js, and EJS. This project allows users to:
 
 Create new blog posts
