@@ -1,4 +1,4 @@
-# 🌐 Post Management Web App
+# 🌐 Blog Management System
 
 A full-stack web application designed to **create, view, update, and delete (CRUD)** posts. Built using **Node.js**, **Express.js**, and **EJS templating**, this project demonstrates fundamental backend development and seamless frontend integration using RESTful routes.
 
