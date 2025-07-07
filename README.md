@@ -13,19 +13,6 @@ A full-stack web application designed to **create, view, update, and delete (CRU
 
 ---
 
-## 🏗️ Project Structure
-
-├── public/styles/ # CSS styles
-├── views/ # EJS templates (pages)
-├── index.js # Entry point (or redirector)
-├── server.js # Main Express server setup
-├── package.json # Project metadata and dependencies
-├── .gitignore # Ignored files
-├── LICENSE # Licensing info
-└── README.md # Project documentation
-
----
-
 ## ⚙️ Features
 
 1. **Create a Post** – Add a new blog-style post using a form.
@@ -55,15 +42,15 @@ A full-stack web application designed to **create, view, update, and delete (CRU
 git clone https://github.com/yourusername/post-management-app.git
 cd post-management-app
 
-###2.nstall Dependencies
+2.nstall Dependencies
 
 npm install
 
-###3. Start the Server
+3. Start the Server
 
 node server.js
 
-###4. Open in Browser
+4. Open in Browser
 Visit:http://localhost:3000
 
 ---
